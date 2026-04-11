@@ -100,7 +100,7 @@ This project addresses this by applying clustering techniques to uncover hidden 
 - 🔵 t-SNE: nonlinear structure validation
 - 🌳 Dendrogram: hierarchical grouping structure
 
-(See `/results` folder for figures)
+📄 [View Full Report](./customer-segmentation-clustering.pdf)
 
 ---
 
