@@ -114,18 +114,6 @@ This segmentation enables:
 
 ---
 
-## 🛠️ Tech Stack
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib / Seaborn
-- PCA
-- t-SNE
-- K-Means Clustering
-- Hierarchical Clustering
-
----
-
 ## 🚀 Recommendations
 - Deploy cluster-based marketing strategies
 - Use personalized campaigns per segment
@@ -133,7 +121,3 @@ This segmentation enables:
 - Reactivate at-risk customers with targeted offers
 - Optimize marketing spend using segmentation insights
 
----
-
-## ⭐ Summary
-This project demonstrates how unsupervised learning and clustering techniques can uncover hidden customer patterns and support data-driven business decisions in e-commerce systems.z
