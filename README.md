@@ -23,21 +23,21 @@ This project addresses this by applying clustering techniques to uncover hidden 
 
 ## 🧪 Approach
 
-### 1. Data Preprocessing
+### 🔹 Data Preprocessing
 - Handling missing values and inconsistencies
 - Feature engineering (Frequency, Recency, CLV, Avg Unit Cost, Age)
 - Feature scaling for clustering performance
 
-### 2. Exploratory Data Analysis (EDA)
+### 🔹 Exploratory Data Analysis (EDA)
 - Distribution analysis of key features
 - Identification of skewed behavior in Frequency and Recency
 - Outlier detection using IQR method
 
-### 3. Dimensionality Reduction
+### 🔹 Dimensionality Reduction
 - PCA for visualization of cluster structure
 - t-SNE for nonlinear structure exploration
 
-### 4. Clustering Methods
+### 🔹 Clustering Methods
 - K-Means Clustering
 - Hierarchical Clustering (Dendrogram analysis)
 
