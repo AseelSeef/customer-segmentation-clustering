@@ -1,9 +1,5 @@
 # 🛍️ Customer Segmentation Using Clustering
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![ML](https://img.shields.io/badge/Machine%20Learning-Clustering-orange)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
 ---
 
 ## 📌 Overview
